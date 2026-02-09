@@ -1,12 +1,19 @@
-## hi, i'm Samir 🌱
+🌱 hi, i’m samir
 
-frontend dev • learning every day  
-currently into: design systems & clean UI
+frontend developer
+learning slowly, building thoughtfully
 
----
+currently focused on
+design systems · clean UI · small details
 
-### tools
+ 
+
+✦ tools i like
+
 react · tailwind · figma
 
-### now
+ 
+
+✦ right now
+
 building small things that feel nice ✨
